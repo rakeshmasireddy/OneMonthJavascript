@@ -1,0 +1,6 @@
+ In this lesson, we’ll go through some of them namely: Events, Comments, Print, Variables, Data Types, Conditionals, Functions, Arrays, Concatenation and Debugging.
+Events: JavaScript in the browser uses an event-driven programming model. An event is a signal that something has happened. Examples of events 		are the page completing loading, a user clicking on a button, hovering on an element, typing into an input box, submitting a form, etc. 		JavaScript enables you to respond to events using Event Handlers. 
+Comments - Code that exists to make things clearer, either for your future self or other developers. Comments will not run anything and can be 	   used to shut off parts of your scripts, which is especially useful for debugging.
+Functions - a function is something that has a bunch of sub-steps and we use a word to represent it, which allows us to do complex things with much less code.
+Conditional statements are features of a programming language which perform different computations or actions depending on whether a specified boolean condition evaluates to true or false.	
+An array is a data structure used to store multiple values in a single variable.
